@@ -50,6 +50,18 @@ a.active{
   padding: 10px 10px;
   border-radius: 10px;
 }
+footer{
+  background-image: url(bleu-grad2.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 130px;
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-top: 5px solid blue;
+  font-weight: bolder;
+}
 
     /* Dropdown container */
     .dropdown {
